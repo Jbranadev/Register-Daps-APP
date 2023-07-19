@@ -1,0 +1,7 @@
+{
+  "name": "DAPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
